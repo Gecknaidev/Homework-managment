@@ -1,12 +1,12 @@
-# v2
+# v3
 [phases.setup]
 nixPkgs = [
-  "php83",
-  "php83Extensions.pdo_mysql",
-  "php83Extensions.mbstring",
-  "php83Extensions.xml",
-  "php83Extensions.curl",
-  "php83Packages.composer",
+  "php84",
+  "php84Extensions.pdo_mysql",
+  "php84Extensions.mbstring",
+  "php84Extensions.xml",
+  "php84Extensions.curl",
+  "php84Packages.composer",
   "nodejs_20"
 ]
 
